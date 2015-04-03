@@ -10,3 +10,5 @@ create 1.txt
 
 
 2
+
+Git tracks changes.
